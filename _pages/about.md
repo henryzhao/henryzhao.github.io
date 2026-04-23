@@ -135,6 +135,7 @@ Zhao has published more than 30 papers at top-tier international journals and co
 
 
 # 🎓 Teaching
+- *2025.09 - 2026.01*, **Operating Systems**, Undergraduate Course, School of Computer Science, Central China Normal University.
 - *2024.09 - 2025.01*, **Operating Systems**, Undergraduate Course, School of Computer Science, Central China Normal University.
 
 
@@ -145,6 +146,7 @@ Zhao has published more than 30 papers at top-tier international journals and co
 
 
 # 💬 Invited Talks
+- *2026.05*, Multimodal Learning for Intelligent Reliability Management in Cloud Native Systems. ICSS 2026, Macau, China.
 - *2023.11*, A Deep Reinforcement Learning Approach to Online Microservice Deployment in Mobile Edge Computing. ICSOC 2023, Roma, Italy. 
 - *2023.06*, A Deep Reinforcement Learning-Based Pointer Scoring Network for Edge Task Scheduling. ICWS 2023, Chicago, USA  \| [\[video\]](https://github.com/)
 
